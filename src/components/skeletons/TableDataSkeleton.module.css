@@ -1,0 +1,16 @@
+.row {
+  width: 1032px;
+  border-bottom: 1px solid rgb(186, 186, 186);
+  height: 65px;
+  animation: skeleton 0.5s linear infinite alternate;
+}
+
+@keyframes skeleton {
+  0% {
+    background-color: rgb(241, 241, 241);
+  }
+
+  100% {
+    background-color: rgb(255, 255, 255);
+  }
+}

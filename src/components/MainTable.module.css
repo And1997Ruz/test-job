@@ -1,0 +1,14 @@
+table {
+  border-spacing: 0;
+  width: 100%;
+  overflow: hidden;
+  table-layout: fixed;
+  margin-bottom: 50px;
+}
+
+td {
+  border: 1px solid #e3e6ec;
+  overflow: hidden;
+  word-wrap: normal;
+  text-align: center;
+}
